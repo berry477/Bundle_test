@@ -2,8 +2,7 @@
 
 	/ ＲＯＣＬＯＴＨＥＳ
 	Version - 0.7.8:lerp()
-	Mod's Discord - discord.gg/k2HbJMY6Fr
-	Unknowing's Discord - discord.gg/HBzvWE6Rp3
+
 	
 	| This script requires a LOCAL folder "RClothesContent" to be added in ROBLOX's content folder, or it'll self-destruct itself
 	
@@ -19662,4 +19661,5 @@ else
 		RoClothes(PS:WaitForChild("lerp()"))
 	end
 end
+
 return nil
