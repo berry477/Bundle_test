@@ -8970,12 +8970,21 @@ function RoClothes(Player)
 				["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
 			},
 			["Accessory"] = {
-				118412304180827,
-				16571435542,
-				110811511179489,
-				119210196560396
-			}
+			        17227988301,
+				17465094231,
+				110769281226237
+			},
+			["Clothes"] = ID
+			        ["Shirt"] = 14789517833 
+                                ["Pants"] = 12287988057
 		},
+		["Clothing"] = {
+		         "Rroblox Breasts Clothing",
+			 "Rroblox Shirt",
+			 "Rroblox Butt Shirt",
+			 "Roblox Pants",
+			 },
+			 
 		["Black 5"] = {
 			["Body Color"] = {
 				["HeadColor3"] = Color3.fromRGB(255, 204, 153),
@@ -19663,3 +19672,4 @@ else
 end
 
 return nil
+
