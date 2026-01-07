@@ -8960,7 +8960,7 @@ function RoClothes(Player)
 				7133439522
 			}
 		},
-		["Black fur"] = {
+		["neko noob"] = {
 			["Body Color"] = {
 				["HeadColor3"] = Color3.fromRGB(255, 204, 153),
 				["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
@@ -19672,4 +19672,5 @@ else
 end
 
 return nil
+
 
