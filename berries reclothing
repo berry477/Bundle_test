@@ -8979,9 +8979,9 @@ function RoClothes(Player)
                                 ["Pants"] = 12287988057
 		},
 		["Clothing"] = {
-		         "Rroblox Breasts Clothing",
-			 "Rroblox Shirt",
-			 "Rroblox Butt Shirt",
+		         "Roblox Breasts Clothing",
+			 "Roblox Shirt",
+			 "Roblox Butt Shirt",
 			 "Roblox Pants",
 			 },
 			 
@@ -19672,5 +19672,6 @@ else
 end
 
 return nil
+
 
 
