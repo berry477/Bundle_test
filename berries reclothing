@@ -8983,8 +8983,8 @@ function RoClothes(Player)
 			 "Roblox Shirt",
 			 "Roblox Butt Shirt",
 			 "Roblox Pants",
-			 },
-			 
+			 }
+	    },
 		["Black 5"] = {
 			["Body Color"] = {
 				["HeadColor3"] = Color3.fromRGB(255, 204, 153),
@@ -19672,6 +19672,7 @@ else
 end
 
 return nil
+
 
 
 
